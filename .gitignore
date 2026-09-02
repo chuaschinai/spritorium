@@ -1,0 +1,21 @@
+# Compilação
+build/
+bin/
+*.o
+*.exe
+
+# IDEs
+.xmake/
+.vscode/
+.zed/
+.idea/
+__*/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Compiler cache
+.cache
+
+compile_commands.json
